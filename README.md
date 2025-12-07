@@ -1,6 +1,6 @@
 # Circulate
 
-**Circulate** is a free tool I built to help researchers connect with scholars who are likely to build on or cite their work. It focuses on the crucial window between posting a draft on arXiv and the final publication stage, when peers are actively shaping their manuscripts.
+**Circulate** is a free AI engine built to help researchers connect with scholars who are likely to build on or cite their work. 
 
 ## 🚀 Why I Built Circulate
 
@@ -9,14 +9,15 @@ When I published an AI paper that didn’t get accepted to a major conference, I
 ## ✅ What Circulate Does
 
 * Identifies scholars who may incorporate your work into their ongoing research.
-* Highlights the ideal moment to reach out, when people are writing or revising.
+* Highlights the ideal moment to reach out.
 * Helps increase visibility for important work that might otherwise go unnoticed.
 
 ## 🔧 How It Works
 
-1. You upload your publication url or pdf
-2. Circulate identifies scholars who are likely to engage with your work.
-4. You reach out personally to share your contribution and start a conversation.
+1. You share your publication url or pdf to the admin (galon@umich.edu) or to https://circulatescience.com/ (website in construction)
+2. Circulate identifies scholars who are likely to engage and share your work.
+3. You reach out to the peers who are highly likely to circulate your work.
+
 
 ## 📫 Contact
 
