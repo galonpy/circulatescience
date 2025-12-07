@@ -4,13 +4,13 @@
 
 ## 🚀 Why I Built Circulate
 
-When I published an AI paper that didn’t get accepted to a major conference, I still wanted people to read it, use it, and build on it. By reaching out to relevant researchers at the right time, I was able to generate over 200 citations, start collaborations, and even move into working on LLM Agents. Circulate was built out of this experience to help scholars grow the reach of their ideas globally.
+When I published an AI paper that didn’t get accepted to a major conference, I still wanted people to read it, use it, and build on it. By reaching out to relevant researchers at the right time, I was able to generate over 300 citations, start collaborations, and even move into working on LLM Agents. Circulate was built out of this experience to help scholars grow the reach of their ideas globally.
 
 ## ✅ What Circulate Does
 
-* Identifies scholars who may incorporate your work into their ongoing research.
-* Highlights the ideal moment to reach out.
-* Helps increase visibility for important work that might otherwise go unnoticed.
+* Identifies scholars likely to incorporate your work into their ongoing research.
+* Helps increase visibility for important work
+* Helps researchers outperform the average citation count of 4
 
 ## 🔧 How It Works
 
