@@ -14,7 +14,7 @@ When I published an AI paper that didn’t get accepted to a major conference, I
 
 ## 🔧 How It Works
 
-1. You share your publication url or pdf to the admin (galon@umich.edu) or to https://circulatescience.com/ (website in construction)
+1. You share your publication url or pdf to the admin (galon@umich.edu) or to https://circulatescience.com/ (website in construction).
 2. Circulate identifies scholars who are likely to engage and share your work.
 3. We provide tips on writing several warm emails a day to the peers who are highly likely to circulate your work.
 
