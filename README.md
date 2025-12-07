@@ -1,29 +1,23 @@
-Circulate
+# Circulate
 
-Circulate is a free tool designed to help researchers connect with scholars who are likely to build on or cite their work. It focuses on the critical window between posting a draft on arXiv and the final publication stage, when peers are actively shaping their own manuscripts.
+**Circulate** is a free tool I built to help researchers connect with scholars who are likely to build on or cite their work. It focuses on the crucial window between posting a draft on arXiv and the final publication stage, when peers are actively shaping their manuscripts.
 
-🚀 Why Circulate Exists
+## 🚀 Why I Built Circulate
 
-After publishing an AI paper that wasn’t accepted to a major conference, the creator still wanted the work to be read and used. By emailing relevant researchers at the right moment, they were able to generate more than 200 citations, start new collaborations, and eventually transition into working on LLM Agents. Circulate grew out of this experience as a way to help other researchers achieve similar impact.
+When I published an AI paper that didn’t get accepted to a major conference, I still wanted people to read it, use it, and build on it. By reaching out to relevant researchers at the right time, I was able to generate over 200 citations, start collaborations, and even move into working on LLM Agents. Circulate grew out of that experience. I wanted to give other researchers a way to create these same opportunities.
 
-✅ What Circulate Does
+## ✅ What Circulate Does
 
-Identifies scholars who may incorporate your work into their ongoing research.
+* Identifies scholars who may incorporate your work into their ongoing research.
+* Highlights the ideal moment to reach out, when people are writing or revising.
+* Helps increase visibility for important work that might otherwise go unnoticed.
 
-Highlights the ideal time to reach out, when potential collaborators are drafting or revising manuscripts.
+## 🔧 How It Works
 
-Helps increase visibility for valuable work that might otherwise go unnoticed.
+1. You upload your publication url or pdf
+2. Circulate identifies scholars who are likely to engage with your work.
+4. You reach out personally to share your contribution and start a conversation.
 
-🔧 How It Works
+## 📫 Contact
 
-Upload or reference your manuscript.
-
-Circulate analyzes related research activity.
-
-You receive a list of scholars who are likely to engage with your work.
-
-Reach out personally to share your contribution and open a conversation.
-
-📫 Contact
-
-To request access or learn more: galon@umich.edu
+If you want access or want to learn more, email me at **[galon@umich.edu](mailto:galon@umich.edu)**.
