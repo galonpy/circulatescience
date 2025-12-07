@@ -16,8 +16,9 @@ When I published an AI paper that didn’t get accepted to a major conference, I
 
 1. You share your publication url or pdf to the admin (galon@umich.edu) or to https://circulatescience.com/ (website in construction)
 2. Circulate identifies scholars who are likely to engage and share your work.
-3. You reach out to the peers who are highly likely to circulate your work.
+3. We provide tips on writing several warm emails a day to the peers who are highly likely to circulate your work.
 
+Due to the **network effect** in research papers, as your readership and citations start to grow, the circulation of your work can expand globally at an accelerated rate. That's the goal of circulate science.
 
 ## 📫 Contact
 
