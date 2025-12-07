@@ -4,7 +4,7 @@
 
 ## 🚀 Why I Built Circulate
 
-When I published an AI paper that didn’t get accepted to a major conference, I still wanted people to read it, use it, and build on it. By reaching out to relevant researchers at the right time, I was able to generate over 200 citations, start collaborations, and even move into working on LLM Agents. Circulate grew out of that experience. I wanted to give other researchers a way to create these same opportunities.
+When I published an AI paper that didn’t get accepted to a major conference, I still wanted people to read it, use it, and build on it. By reaching out to relevant researchers at the right time, I was able to generate over 200 citations, start collaborations, and even move into working on LLM Agents. Circulate was built out of this experience to help scholars grow the reach of their ideas globally.
 
 ## ✅ What Circulate Does
 
