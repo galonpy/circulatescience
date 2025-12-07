@@ -8,8 +8,8 @@ When I published an AI paper that didn’t get accepted to a major conference, I
 
 ## ✅ What Circulate Does
 
-* Identifies scholars likely to incorporate your work into their ongoing research.
-* Helps increase visibility for important work
+* Identifies scholars likely to incorporate your work into their upcoming publications.
+* Helps increase visibility for your important work
 * Helps researchers outperform the average citation count of 4
 
 ## 🔧 How It Works
