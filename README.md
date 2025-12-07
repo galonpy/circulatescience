@@ -1,6 +1,6 @@
 # Circulate
 
-**Circulate** is a free AI engine built to help researchers connect with scholars who are likely to build on or cite their work. 
+**Circulate** is a free AI engine built to help researchers identify scholars who are likely to build on or cite their work. 
 
 ## 🚀 Why I Built Circulate
 
